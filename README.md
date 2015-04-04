@@ -10,12 +10,12 @@ rn is a random name generator
 It's not designed to be an all-purpose context-free-grammar generator; rather,
 this is just when you need a stupid variable name or filler name for a file. 
 
-Usage:
+# Usage:
 
     $ rn
     # output: red-old-fish
 
-Configuration:
+# Configuration:
 
 Create a file at `~/.rn/config.yaml` like so:
 
