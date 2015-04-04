@@ -12,8 +12,8 @@ this is just when you need a stupid variable name or filler name for a file.
 
 Usage:
 
-$ rn
-# output: red-old-fish
+    $ rn
+    # output: red-old-fish
 
 Configuration:
 
