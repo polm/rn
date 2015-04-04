@@ -1,0 +1,18 @@
+{
+  "name": "rn",
+  "version": "1.0.0",
+  "description": "generate a random name",
+  "main": "./lib",
+  "bin": {"rn":"./bin/rn"},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random",
+    "names"
+  ],
+  "author": "Paul McCann",
+  "license": "WTFPL",
+  "dependencies": {"LiveScript": "^1.3.0", "js-yaml": "^3.2.2"}
+
+}
